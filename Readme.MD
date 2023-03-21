@@ -1,2 +1,2 @@
 My file
-Fail was changed
+File was changed
